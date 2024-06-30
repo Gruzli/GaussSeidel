@@ -1,1 +1,1 @@
-# GaussSeidels
+# GaussSeidel
